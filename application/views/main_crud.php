@@ -12,7 +12,7 @@
         <th class="col-md-0">Nomor</th>
         <th class="col-md-0">Asal Negara</th>
         <th class="col-md-0">Posisi</th>
-        <th class="col-md-0">Gambar</th>
+        <th class="col-md-0">Foto Pemain</th>
         <th class="col-md-0">Tanggal Lahir</th>
         <th class="col-md-0">Edit</th>
       </tr>
