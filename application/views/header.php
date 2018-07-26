@@ -11,20 +11,18 @@
 		<nav class="navbar navbar-default">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand" href="#">FCB</a>
+        <a class="navbar-brand" href="#">FERI</a>
       </div>
       <ul class="nav navbar-nav">
         <li class="active"><a href="<?php echo site_url() ?>home">Home</a></li>
         <li><a href="<?php echo site_url() ?>blog">Blog</a></li>
         <li><a href="<?php echo site_url() ?>crud">Crud</a></li>
-        
+           <li><a href="<?php echo site_url() ?>kategori">Kategori</a></li>
+        <li><a href="<?php echo site_url() ?>member">Member</a></li>
       </ul>
      
     </div>
   </nav>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline my-2 my-sm-0" type="submit">Search</button>
-            </form>
+            
 			</div>
 		</nav>
